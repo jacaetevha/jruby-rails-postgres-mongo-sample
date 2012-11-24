@@ -1,0 +1,7 @@
+development:
+  adapter: jdbc
+  uri: jdbc:postgresql://localhost/databasename
+  encoding: unicode
+  database: databasename
+  username: someone
+  password:
